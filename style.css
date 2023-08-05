@@ -162,6 +162,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    flex-direction: row-reverse;
 }
 #contact-form label, input, button, textarea {
     display: block;
